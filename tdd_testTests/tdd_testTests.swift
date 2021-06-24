@@ -1,6 +1,6 @@
 
 import XCTest
-@testable import makeQueue
+@testable import tdd_test
 
 class makeQueueTests: XCTestCase {
     
